@@ -1,0 +1,9 @@
+requests==2.32.3
+numpy==1.26.4
+tensorflow==2.18.0
+tensorflow.keras==3.8.0
+sklearn==1.6.1
+matplotlib==3.10.0
+bs4==4.13.3
+PIL==11.1.0
+scipy==1.13.1
